@@ -12,7 +12,7 @@ This project is a web-based stock prediction application that leverages machine 
 - **Backend**: Python, Flask, LSTM (Machine Learning)
 - **Frontend**: HTML, CSS, JavaScript
 - **Data Processing**: Hadoop, Spark
-- **Visualization**: Power BI
+- **Visualization**: Power BI.
 
 ## Installation
 
