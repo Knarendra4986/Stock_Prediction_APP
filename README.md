@@ -70,3 +70,4 @@ Contributions are welcome! Please fork this repository and submit a pull request
 
 
 This version includes the steps for setting up and activating a virtual environment. Let me know if anything else needs tweaking!
+ sure 
